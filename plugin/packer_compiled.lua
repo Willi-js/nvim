@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "/home/willi-js/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["boxdash.git"] = {
+    loaded = true,
+    path = "/home/willi-js/.local/share/nvim/site/pack/packer/start/boxdash.git",
+    url = "https://git.0x7be.net/dirk/boxdash"
+  },
   catppuccin = {
     loaded = true,
     path = "/home/willi-js/.local/share/nvim/site/pack/packer/start/catppuccin",
@@ -148,11 +153,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/willi-js/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
-  },
-  ["vim-startify"] = {
-    loaded = true,
-    path = "/home/willi-js/.local/share/nvim/site/pack/packer/start/vim-startify",
-    url = "https://github.com/mhinz/vim-startify"
   }
 }
 

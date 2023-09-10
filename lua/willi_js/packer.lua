@@ -38,5 +38,6 @@ return require('packer').startup(function(use)
   }
  }
 
- use('mhinz/vim-startify')
+ use 'https://git.0x7be.net/dirk/boxdash.git'
+ 
 end)
