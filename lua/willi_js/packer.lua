@@ -40,4 +40,5 @@ return require('packer').startup(function(use)
 
  use 'https://git.0x7be.net/dirk/boxdash.git'
  
+ use 'nvim-tree/nvim-web-devicons' 
 end)
